@@ -1,0 +1,12 @@
+README.txt
+setup.py
+src/accounts_monster/__init__.py
+src/accounts_monster.core.egg-info/PKG-INFO
+src/accounts_monster.core.egg-info/SOURCES.txt
+src/accounts_monster.core.egg-info/dependency_links.txt
+src/accounts_monster.core.egg-info/entry_points.txt
+src/accounts_monster.core.egg-info/namespace_packages.txt
+src/accounts_monster.core.egg-info/not-zip-safe
+src/accounts_monster.core.egg-info/requires.txt
+src/accounts_monster.core.egg-info/top_level.txt
+src/accounts_monster/core/__init__.py
