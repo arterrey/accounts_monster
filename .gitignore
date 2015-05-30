@@ -1,1 +1,11 @@
+/.installed.cfg
+/bin
+/develop-eggs
+/eggs
 /environment.source
+/local.cfg
+/src/*.egg-info
+/tmp
+/var
+*.pyc
+*.pyo
